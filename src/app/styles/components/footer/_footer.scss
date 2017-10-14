@@ -1,6 +1,10 @@
 //======================================================================
-// Components
+// Footer
 //======================================================================
 
-@import "header/__index";
-@import "footer/__index";
+footer {
+    background-color: $bright-red;
+    color: $white;
+    height: 100px;
+    padding: 10px 20px;
+}

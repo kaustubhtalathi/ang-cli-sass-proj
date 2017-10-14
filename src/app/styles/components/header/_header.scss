@@ -1,6 +1,9 @@
 //======================================================================
-// Components
+// Header
 //======================================================================
 
-@import "header/__index";
-@import "footer/__index";
+header {
+    background-color: $bright-red;
+    color: $white;
+    padding: 10px 20px;
+}
